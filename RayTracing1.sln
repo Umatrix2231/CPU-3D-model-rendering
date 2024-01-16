@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayTracing1", "RayTracing1\RayTracing1.csproj", "{08CC3F3A-E31A-413B-9C25-AA0256334120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Debug|x64.ActiveCfg = Debug|x64
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Debug|x64.Build.0 = Debug|x64
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Debug|x86.Build.0 = Debug|Any CPU
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Release|x64.ActiveCfg = Release|x64
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Release|x64.Build.0 = Release|x64
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Release|x86.ActiveCfg = Release|Any CPU
+		{08CC3F3A-E31A-413B-9C25-AA0256334120}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF55A2C8-0E50-4D28-A98D-FE008215FAAB}
+	EndGlobalSection
+EndGlobal
